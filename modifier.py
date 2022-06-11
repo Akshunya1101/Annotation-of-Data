@@ -2,14 +2,14 @@
 import xml.etree.ElementTree as ET
 import os
 
-directory = 'Civil Appeal'
+directory = 'Writ Petition'
 for filename in os.listdir(directory):
     f = os.path.join(directory, filename)
     mytree = ET.ElementTree(file= f)
     myroot = mytree.getroot()
 
     out_dir = directory+' output'
-    out_file = os.path.join(out_dir, filename + 'output.txt')
+    out_file = os.path.join(out_dir, filename.replace(".xml", " output.txt"))
     out = open( out_file, 'w')
     for i in myroot:
         #if i.tag =='Laws' :
