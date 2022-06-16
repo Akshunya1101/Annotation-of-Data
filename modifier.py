@@ -1,4 +1,5 @@
-# from msilib.schema import Directory
+#This is the first model made depending on Act *no.* or *no.* Act logic
+
 import xml.etree.ElementTree as ET
 import os
 
