@@ -1,4 +1,4 @@
-Case id : 4203
+Id : 4203
 PRE_RELIED : 
  7.      In above view of the matter, the exercise of certification of the correctness of the inventory or taking of photographs of the seized goods or drawing representative samples can be nothing but an exercise which is administrative or executive in nature within the meaning of clause (b) of sub-Section (4) of Section 3 Cr.P.C.
 Therefore, the word “Magistrate” appearing in Section 110 (IB) and (1C) of the Customs Act, 1962 must be interpreted so as to be read as a reference to an Executive Magistrate and not to a Judicial Magistrate or a Metropolitan Magistrate.
@@ -8,7 +8,7 @@ State, decided on 21.02.2013.
 PRE_RELIED :       A contrary view taken by another learned Single Judge of this court in Crl. Misc. (Main) No.2484/1998, titled Department of Customs vs. Parvinder Kaur, decided on 24.08.2000 was apparently per incuriam and does not commend to be the correct approach for the reason the matter was not examined there in light of provision contained in Section 3(4) Cr.P.C.
 
 
-Case id : 4173
+Id : 4173
 PRE_RELIED : 
  A Constitution Bench of this Court examined in the case of R. Abdul Quader & Co. v. Sales Tax officer, Hyderabad(1) the validity of section l l (2) of the Hyderabad Sales Tax Act, 1950 which reads as under: "(2) Notwithstanding anything to the contrary contained in any order of an officer or tribunal or judgment, decree or order of a Court, every person who has collected or collects on or before 1st May, 1950, any amount by way of tax otherwise than in accordance with the provisions of this Act shall pay over to the Government within such time and in such manner as may be prescribed the amount so collected lay him, and in default of such payment the said amount shall be recovered from him as if it were arrears of land revenue."
 
@@ -35,7 +35,7 @@ PRE_RELIED : So it cannot be said that the State legislature was directly legisl
 PRE_RELIED : the amount, though collected by way of tax, was not exigible as tax under the law."
 
 
-Case id : 4147
+Id : 4147
 PRE_RELIED : In Ramji Keshavji v.
 Commissioner of ,Income tax 'Bombay(1), the Bombay High Court considered the scheme of s. 16(1)(c).
 
@@ -52,9 +52,9 @@ PRE_RELIED : In that case the assessee, who owned an estate known as 'Tekari Raj
 PRE_RELIED : The beneficiaries under the deed were the settlor, her husband and her sons.
 
 
-Case id : 4204
+Id : 4204
 
-Case id : 4142
+Id : 4142
 PRE_RELIED : 11] In case of Jintudas ..vs.. State of Asam reported in 2003 Cri.L.J. 1411 the Learned Single Judge of the Gauhati High Court while dealing with the case involving similar facts and after considering evidence relating to the conduct of the victim observed that: "If a full grown woman consents to act of sexual intercourse on a promise of marriage and continues to indulge in such activity until she becomes pregnant, it is an act of promiscuity on her part and not an act induced by misconception of fact.
 
 PRE_RELIED : In such facts and circumstances, the irresistible conclusion is that the accused had sexual intercourse with her consent.
@@ -79,7 +79,7 @@ PRE_RELIED :
               14]
 
 
-Case id : 4253
+Id : 4253
 PRE_RELIED : 
  14. The legal implications with regard to a private complaint being filed and the Police Report is submitted on the same facts, what should be done by the Courts is also very well enunciated in a decision reported in Parmanand Sisodia Vs. Madhukar reported in 2002 Crl. L.J. 3640.
 
@@ -94,7 +94,7 @@ PRE_RELIED :
  25. Moreover, the Apex Court in a decision reported in 2013 (1) Kar.L.J. 591 SC between Govindaraju alias Govinda Vs. State by Sriramapuram P.S. and another has laid down certain principles as to under what circumstance the Appellate Court could interfere with the judgment of acquittal recorded by the Trial Court i.e. to say : "The Appellate Court can interfere with the judgment of acquittal but normally should not substitute its views unless it records the reasons that findings recorded by the Lower Court are erroneous, contrary to the settled principles of criminal law and the judgment of acquittal is perverse on facts or law".
 
 
-Case id : 4233
+Id : 4233
 PRE_RELIED : We have examined this issue in the light of the Judgment pronounced by the Apex Court in Rotork Controls Case (supra,) wherein the three tests are laid down to recognize a provision under the Act.
 
 PRE_RELIED : This view is confirmed by the ITAT placing reliance on the Judgment of the Apex Court in Indo Nippan's case (supra).
@@ -102,15 +102,15 @@ PRE_RELIED : This view is confirmed by the ITAT placing reliance on the Judgment
 PRE_RELIED : This view is supported by the Judgment of the Apex Court in Berger Paint India Ltd. v/s CIT, Calcutta reported in (2004)12 SCC 42.
 
 
-Case id : 4162
+Id : 4162
 
-Case id : 4232
+Id : 4232
 
-Case id : 4225
+Id : 4225
 
-Case id : 4237
+Id : 4237
 
-Case id : 4101
+Id : 4101
 PRE_RELIED : 
  14.        In its judgment in the case of State of U.P. .vs.
  Babul Nath (supra), the Hon'ble Supreme Court has held as follows:- "8.
@@ -245,17 +245,17 @@ PRE_RELIED : It is a demand for justice and the award of punishment has to be in
  29.  
 
 
-Case id : 4121
+Id : 4121
 PRE_RELIED : The inference on this question raised by the Tribunal on the facts found is of mixed law and fact and is open to challenge before the High Court on a reference under s. 66 of the Income Tax Act G. Venkataswami Naidu & Co. v. The Commissioner of Income Tax (1).
 
 PRE_RELIED : It was held in The Oriental Investment Co., Ltd. v. The Commissioner of Income Tax, Bombay (2), that the question whether the appellants' transactions amounted to dealing in shares and properties or to investment, is a mixed question of law and fact, and that the legal effect of the facts found by the Tribunal on which the assessee could be treated as a dealer or an investor, is a question of law.
 
 
-Case id : 4197
+Id : 4197
 
-Case id : 4289
+Id : 4289
 
-Case id : 4247
+Id : 4247
 PRE_RELIED : 
  9. In S.A. Venkataraman vs. The State6 while dealing with the requirement of sanction under the pari materia provisions of the Prevention of Corruption Act, 1947, it was laid down that the protection under the concerned provisions would not be available to a public servant after he had demitted his office or retired from service.
 
@@ -349,7 +349,7 @@ PRE_RELIED : Secondly, the conclusion was drawn in the context of the facts avai
 PRE_RELIED : It is also important for the Court to examine the allegations contained in the final report against the appellants, to decide whether previous sanction is required to be obtained by the 17 respondent from the appropriate Government before taking cognizance of the alleged offence by the learned Special Judge against the accused.
 
 
-Case id : 4087
+Id : 4087
 PRE_RELIED : In both the impugned judgments, reliance has been placed on the decision of this Court in Income Tax Officer v. Delhi Iron Works (P) Ltd. 2010 (175) DLT 495.
 
 PRE_RELIED : Before the learned DJ-ASJ the ITD had also placed reliance on the decision of the Division Bench of the Madras High Court in Income Tax Officer v. Dinesh Kumar Shah (1997) 223 ITR 68.
@@ -377,9 +377,9 @@ PRE_RELIED : ” 10. As far as the present case is concerned, in the complaint f
 PRE_RELIED : In Madhumilan Syntex Limited (supra) it was held that the proceedings against the Directors would be maintainable as long as the complaint clearly stated that they were being treated as principal officers of the company.
 
 
-Case id : 4111
+Id : 4111
 
-Case id : 4140
+Id : 4140
 PRE_RELIED : The contention predicated on Section 22 of the Mines Regulation Act is made by relying upon the judgment of this Court in Jeewan Kumar Raut and Another v. Central Bureau of Investigation1.
        
 
@@ -428,19 +428,19 @@ PRE_RELIED : We would in the end refer to the judgment in Jeewan Kumar Raut (sup
 PRE_RELIED : We would again advert to the decision in Sanjay (supra) which had overruled the decision of the Calcutta High Court in Seema Sarkar v. State17 wherein the High Court held the proceedings to be invalid and illegal as the Magistrate had taken cognizance on the basis of a charge-sheet submitted by the police under Section 21(2) of the Mines Regulation Act and Section 379 of the IPC, observing that the cognizance was one that cannot be split or divided.
 
 
-Case id : 4124
+Id : 4124
 
-Case id : 4137
+Id : 4137
 
-Case id : 4182
+Id : 4182
 
-Case id : 4070
+Id : 4070
 
-Case id : 4156
+Id : 4156
 PRE_RELIED : Prima facie, receipt of compensation for land compulsorily acquired which forms part of the fixed assets of a Company is of a capital nature: Senairam Doongarmall v. Commissioner of Income-tax, Assam(1), but interest which is statutorily payable on compensation is income and is not capital gain: Dr. Shamlal Narula v. Commissioner of Income-tax, Punjab, Jammu and Kashmir, Himachal Pradesh and Patiala(2).
 
 
-Case id : 4097
+Id : 4097
 PRE_RELIED : 
 The decision is that of Dhakeswari Cotton Mills Ltd. v.
 Commissioner of Income Tax, West Bengal(1).
@@ -473,15 +473,15 @@ PRE_RELIED :
 The decision of the Lahore High Court in Seth Gurmukh Singh v. Commissioner of Income-tax, Punjab (3) was specifically approved by this Court in Dhakeswari Cotton Mills' case (2).
 
 
-Case id : 4108
+Id : 4108
 
-Case id : 4099
+Id : 4099
 
-Case id : 4275
+Id : 4275
 
-Case id : 4251
+Id : 4251
 
-Case id : 4267
+Id : 4267
 PRE_RELIED : Exclusion of Acropetal Technologies Ltd. (Seg) is covered in favour of the assessee by the same tribunal order rendered in the case of Applied materials India Pvt. Ltd. vs. ACIT (Supra).
 
 PRE_RELIED : Respectfully following Vs. M/s. Commscope Networks (India) Pvt. Ltd., 10/14 the same, we uphold its exclusion.
@@ -502,7 +502,7 @@ PRE_RELIED : This Court in ITA No.536/2015 C/w ITA No.537/2015    delivered     
  
 
 
-Case id : 4207
+Id : 4207
 PRE_RELIED : In the decision reported in 2003(7) SCC 141, supra, the Apex Court has held that "It is true that the incident in question has prematurely terminated the life of twenty-one people and the number of deaths cannot be the sole criterion for awarding the maximum punishment of death."
 
 PRE_RELIED : In the decision reported in (2011)10 SCC 389, supra, Apex Court has held that the appellant/Accused would not be a menace to society and no reason to believe that the appellant cannot be reformed or rehabilitated or would constitute a continued threat to society and it is not the `rarest of the rare case' causing for extreme penalty of death.
@@ -519,14 +519,14 @@ PRE_RELIED : In the above-said case i.e., Brijendrasingh's case, the Apex Court 
 PRE_RELIED : The Apex Court has laid down the principles to determine whether this case falls within the scope of rarest of rare cases for imposition of death sentence.
 
 
-Case id : 4264
+Id : 4264
 PRE_RELIED : .
 9. It is by now wellsettled, as was held in Hari Ram v. State of Rajasthan, (2009) 13 SCC 211, that in light of Sections 2(k), 2(l), 7A read with Section 20 of the 2000 Act as amended in 2006, a juvenile who had not completed eighteen years on the date of commission of the offence is entitled to the benefit of the 2000 Act (also see Mohan Mali v. State of Madhya Pradesh, (2010) 6 SCC 669; Daya Nand v. State of Haryana, (2011) 2 SCC 224; Dharambir v. State (NCT) of Delhi (supra); Jitendra Singh @ Babboo Singh v. State of Uttar Pradesh, (2013) 11 SCC 193).
 
 PRE_RELIED : It is equally wellsettled that the claim of juvenility can be raised at any stage before any Court by an accused, including this Court, even after the final disposal of a case, in terms of Section 7A of the 2000 Act (see Dharambir v. State (NCT) of Delhi, (supra), Abuzar Hossain v. State of West Bengal, (2012) 10 SCC 489; Jitendra Singh @ Babboo Singh v. State of UP, (supra); Abdul Razzaq v. State of Uttar Pradesh, (2015) 15 SCC 637).
 
 
-Case id : 4266
+Id : 4266
 PRE_RELIED : The scheme underlying the Seventh Schedule of the Constitution has been considered in a judgment by the Constitutional Bench of the Hon ble Supreme Court in the case State of W.B. Vs. Kesoram Industries Ltd. And others, (2004)10 Supreme Court Cases 201 .
 
 PRE_RELIED : The observations of the Hon ble Supreme Court in paragraphs 74, 75 and 76 are relevant, they read as under:- 74.
@@ -714,7 +714,7 @@ PRE_RELIED : It is for this reason that it was held that the power to legislate 
 PRE_RELIED : Entry 97 in List I also militated against the contention that the power to tax is an incidental power under our Constitution (See: Seervai H.M.:Constitutional Law of India, 4th/Silver Jubilee Edn, Vol.3, para 22.20) (emphasis supplied).
 
 
-Case id : 4257
+Id : 4257
 PRE_RELIED : 
  5. This Court in ITA No.536/2015 C/w ITA No.537/2015  delivered  on  25.06.2018 M/s.
 
@@ -751,9 +751,9 @@ PRE_RELIED :
  58. The appeals filed by the Revenue are therefore dismissed with no order as to costs."
 
 
-Case id : 4127
+Id : 4127
 
-Case id : 4126
+Id : 4126
 PRE_RELIED : This Court in Babu and Ors. v. State of Uttar Peadesh (1) held that it was for tic third learned Judge to decide on what points the arguments would be heard and therefore he was free to resolve the differences as he thought fit.
 
 PRE_RELIED : 
@@ -763,7 +763,7 @@ State of Gujarat(1)
 PRE_RELIED : said that a mistake by one of the accused as to killing X in place of Y would not displace the common intention if the evidence showed the concerted action in furtherance of pre-arranged plan.
 
 
-Case id : 4179
+Id : 4179
 PRE_RELIED : This Court, in Rameshwar v.
 The State of Rajasthan,(1) has declared that corroboration is not the sine que-non for a conviction in a rape case.
 
@@ -775,9 +775,9 @@ PRE_RELIED : There is no rule of practice that there must, in every case, be cor
          
 
 
-Case id : 4276
+Id : 4276
 
-Case id : 4109
+Id : 4109
 PRE_RELIED : 
 In Commissioner of Income-tax, Bombay v. Shapiorji Pallonji Alistry(1) it was held by this Court that in an appeal filed by the assessee the Appellate Assistant Commissioner has no power to enhance the assessment by discovering new sources of income not mentioned in the return of the assessee or considered by the Income-tax Officer in the order appealed against.
 
@@ -836,23 +836,23 @@ PRE_RELIED : They are not deciding a case interparties; they are assessing or es
  
 
 
-Case id : 4250
+Id : 4250
 PRE_RELIED : It is well settled in law that in the absence of reopening of the completed assessment by a show cause notice within the period of limitation prescribed under the Act, no demand can be raised and if the show cause notice issued is beyond time, then the said show cause notice issued is liable to be quashed and set aside [See Sarabai Chemicals V/s. Collector of Central Excise (2005 (2) S.C.C. 168)].
 
 PRE_RELIED : We may refer to the decision of the Apex Court in the case of Commissioner of Central Excise V/s. Dabur India Ltd. (183 E.L.T. 308 S.C.) in that behalf.
 
 
-Case id : 4085
+Id : 4085
 
-Case id : 4107
+Id : 4107
 PRE_RELIED : It is true that in the present Code, the unmistakable shift in legislative emphasis is on life imprisonment for murder as the rule and capital sentence an exception, to be resorted to for reasons to be stated (Edige Annamma, 1974 SC 799, AIR).
 
 
-Case id : 4282
+Id : 4282
 
-Case id : 4234
+Id : 4234
 
-Case id : 4133
+Id : 4133
 PRE_RELIED : The Supreme Court in the matter of B. C. Srinivasa Shetty (supra) was dealing with the issue whether the transfer of the goodwill by partnership firm can give rise to a capital gain tax under Section 45 of the said Act.
 
 PRE_RELIED : The Apex Court held that where the cost of acquisition of the capital asset is nil then the computation provision fails and the transfer of goodwill not give rise to capital gains tax.
@@ -864,9 +864,9 @@ PRE_RELIED : Therefore for the period under consideration the computation provis
 PRE_RELIED : Further as held by the Supreme Court in the matter of Dy. CIT v/s. Core Health Care ltd. reported in 298 ITR 194 that a provision introduced with effect from a particular date would not have retrospective effect unless it is expressly stated to be so.
 
 
-Case id : 4076
+Id : 4076
 
-Case id : 4153
+Id : 4153
 PRE_RELIED : In fact, a Special Leave Petition filed against the said Division Bench judgment was dismissed by the Supreme Court by way of a speaking order in Commissioner of Income Tax Vs.
 
 PRE_RELIED : Lovely
@@ -909,20 +909,20 @@ PRE_RELIED : The reagitation may or may not be barred as res judicata.
 PRE_RELIED : But if the same issue is sought to be reagitated, it also amounts to an abuse of the process of the court…..”.
 
 
-Case id : 4218
+Id : 4218
 PRE_RELIED : 
 9.     In the case of Ram Das Singh & Ors. Vs. State of Bihar reported at JT 2000 (9) SC 569, the Apex Court while considering the age of the appellant, who was 80 years of age, reduced the sentence to the period already undergone.
 
 PRE_RELIED : Similar view was taken by the Supreme Court in a recent decision rendered in the case of Gurdip Singh Vs. State of Punjab reported at (2013) 10 SCC 395, wherein the court took into consideration the late evening age of the appellant and reduced the sentence already undergone.
 
 
-Case id : 4110
+Id : 4110
 PRE_RELIED : The Hon'ble Apex Court in the case of Rangappa vs- Sri Mohan, reported in [2010 (11) SCC 441], while analysing Section 139 of N.I.Act, was also pleased to observe that once the issuance of the cheque in favour of the complainant is established, a presumption about the existence of legally enforceable debt forms in favour of the complainant, however, the said presumption is rebuttable.
 
 
-Case id : 4270
+Id : 4270
 
-Case id : 4157
+Id : 4157
 PRE_RELIED : 
  7. In Ajmer Singh (supra), it was held as follows : "7. Section 5 of the Code of Criminal Procedure lays down that nothing contained in the said Code shall, in the absence of a specific provision to the contrary, affect any special or local law for the time being in force, or any special jurisdiction or power conferred, or any special form of procedure prescribed, by any other law for the time being in force.
 
@@ -956,23 +956,23 @@ PRE_RELIED :
  17.
 
 
-Case id : 4144
+Id : 4144
 
-Case id : 4248
+Id : 4248
 
-Case id : 4273
+Id : 4273
 
-Case id : 4256
+Id : 4256
 PRE_RELIED : The true position is very clearly put by Lord Sumner in The Prinz Adalbert(1) : " When a shipper takes his draft, not as yet accepted, but accompanied by a bill of lading, indorsed in this way, and discounts it with a banker, he makes himself liable on the instrument as drawer, and he further makes the goods, which the bill of lading (1) L.R. [1917] A.C. 586, 589.represents, security for its payment.
 
 PRE_RELIED : If, in turn, the discounting banker surrenders the bill of lading to the acceptor against his acceptance, the inference is that he is satisfied to part with his security in consideration of getting this further party's liability on the bill, and that in so doing he acts with the permission and by the mandate of the shipper and drawer.
 
 
-Case id : 4191
+Id : 4191
 PRE_RELIED : In Geep Flaslight Industries v. Union of India,[1986]6 ELR 430, the entry or `articles of plastic' was construed to mean as article made wholly of commodity commonly known as plastic to avoid any artificial reading.
 
 
-Case id : 4176
+Id : 4176
 PRE_RELIED : 
  12.  This interpretation was referred in Pandurang Agarbatti V/s.
 
@@ -983,11 +983,11 @@ PRE_RELIED : CFTO, Vijaywada reported in [1999] 113 STC 161 (SC).
  
 
 
-Case id : 4249
+Id : 4249
 
-Case id : 4287
+Id : 4287
 
-Case id : 4194
+Id : 4194
 PRE_RELIED : He placed reliance on the decisions in C.K.
 Gangadharan v. Commissioner of Income Tax, Cochin (2008) 8 SCC 739 and Commissioner of Central Excise, Raipur v. Hira Cement (2006) 2 SCC 439.
 
@@ -1106,20 +1106,20 @@ PRE_RELIED : On the facts of that case it was held: "31.
 PRE_RELIED : It appears from the record that in several assessment years, the Revenue accepted the order of the Tribunal in favour of the Assessee and did not pursue the matter any further but in respect of some assessment years the matter was taken up in appeal before the Bombay High Court but without any success.
 
 
-Case id : 4195
+Id : 4195
 
-Case id : 4077
+Id : 4077
 
-Case id : 4187
+Id : 4187
 PRE_RELIED : 
  9. In a decision reported in (2018) 3 SCC 22 in the case of Dataram Singh v. State of Uttara Pradesh and Another, the Hon'ble Apex Court held as under: "A fundamental postulate of criminal jurisprudence is the presumption of innocence, meaning thereby that a person is believed to be innocent until found guilty.
 
 
-Case id : 4285
+Id : 4285
 
-Case id : 4281
+Id : 4281
 
-Case id : 4184
+Id : 4184
 PRE_RELIED : In Kanhaiyalal v.
  Union of India 2008 (1) JCC(Narcotics) 23, the Supreme Court has held that the statement made under Section 67 can be used as a confession against the person making it and is not affected by Sections 24 to 27 of the Evidence Act.
 
@@ -1149,7 +1149,7 @@ PRE_RELIED : It is high time that senior counsel practising in the court concern
 PRE_RELIED : If these remedial steps are taken and an honest and objective investigation is done, it will enhance a sense of confidence of the public in the investigating agency.” 20.
 
 
-Case id : 4229
+Id : 4229
 PRE_RELIED : 
  13. In Vijay Jain v. State of Madhya Pradesh (2013) 14 SCC 527, this Court reiterated the necessity of production of contraband substances seized from the accused before the trial court to establish that the contraband substances seized from the accused tallied with the samples sent to the FSL.
 
@@ -1188,7 +1188,7 @@ PRE_RELIED :
  Jugendra Singh v. State of Uttar Pradesh (2012) 6 SCC 297, State of Uttar Pradesh v. Ram Sajivan and Others (2010) 1 SCC 529, Bhaskar Ramappa Madar and others v. State of Karnataka (2009) 11 SCC 690, Chandrappa and others v. State of Karnataka (2007) 4 SCC 415 and other judgments.
 
 
-Case id : 4149
+Id : 4149
 PRE_RELIED : 
  15.  In a latest judgment reported at 2012(3) SCALE 438 (MANU/SC/0212/2012) in the matter of Bhajju @ Karan Singh Vs. State of Madhya Pradesh, the Hon'ble Supreme Court at Para No.12 has stated as under : "12.
 
@@ -1226,7 +1226,7 @@ PRE_RELIED :
  17.  
 
 
-Case id : 4129
+Id : 4129
 PRE_RELIED : 
  11.        In the judgment in the case of Sameeran Roy vs Smt.
  Leena Roy (supra) relied upon by the learned Counsel appearing for the petitioner, in a similar situation, Madhya Pradesh High Court has held as follows : "8.
@@ -1239,7 +1239,7 @@ PRE_RELIED : Subject to the other provisions contained in this Act and to such r
  
 
 
-Case id : 4190
+Id : 4190
 PRE_RELIED : 
 The Division Bench of this Court in the case of Infinite Builders and Developers, Bangalore (supra) was considering a case where the first appellate authority had granted a benefit more than what was claimed by the assessee.
 
@@ -1248,9 +1248,9 @@ PRE_RELIED : Similar view has been taken by another Division Bench of this Court
  9.
 
 
-Case id : 4083
+Id : 4083
 
-Case id : 4209
+Id : 4209
 PRE_RELIED : 
  It has been held in the decision reported in (1994) 7 OCR- at page -91 in the case of Babaji Charan Barick vs. State that a combined reading of section 113-B of the Indian Evidence Act and section 304-B of the I.P.C shows that there must be material to show that soon before her death the victim must have subjected to cruelty or harassment.
 
@@ -1260,7 +1260,7 @@ PRE_RELIED : This view find vindication in the decision of the Hon'ble Apex Cour
  14.
 
 
-Case id : 4235
+Id : 4235
 PRE_RELIED : 
  In Begu v. The King Emperor (1) the Privy Council had to deal with a case where certain persons were charged under section 302 of the Penal Code, but were convicted under section 201 for causing the disappearance of evidence.
 
@@ -1270,9 +1270,9 @@ Their Lordships upheld the conviction, and while referring to section 237 of the
 PRE_RELIED : Their Lordships entertain no doubt that the procedure was a proper procedure and one warranted by the Code of Criminal Procedure."
 
 
-Case id : 4118
+Id : 4118
 
-Case id : 4115
+Id : 4115
 PRE_RELIED : The High Court of Gujarat in the case of Commissioner, Central Excise vs Reliance Industries Limited supra, while considering a similar canvas against the payment of interest on delayed refunds under Section 11BB of the Central Excise Act, in terms of the obligation to refund under Rule 5 of the CENVET Credit Rules & Notification dated 18.6.2012, did not accept the canvas on behalf of the revenue that the scheme for refund of unutilized CENVAT Credit is a special beneficial scheme with self contained procedure providing for the manner and method of its implementation, and hence any refund claimed under the Rules would be governed only by the provisions of the Scheme and the general provisions of Section 11BB of the Central Excise Act cannot be resorted to.
 
 PRE_RELIED : The High Court of Gujarat concluded that the CENVAT credit is nothing but duty paid by the supplier of inputs which are dutiable goods manufactured by the supplier or dutiable services rendered by the service provider; when such goods/services are utilized for further manufacture or providing service, which are dutiable, the manufactured goods or service provided carry the duty paid by the Supplier of inputs as a component of its price/value.
@@ -1282,9 +1282,9 @@ PRE_RELIED : Hence, the duty payable on the ultimately manufactured goods/servic
 PRE_RELIED : Thus, the duty paid on inputs by the supplier has already been actually received by the exchequer.
 
 
-Case id : 4277
+Id : 4277
 
-Case id : 4245
+Id : 4245
 PRE_RELIED : In the Governors of the Rotunda Hospital, Dublin v. Coman(1), the Governors of a maternity hospital established for charitable purposes were owners of a building- which comprised rooms adapted for public entertainments, and which was connected with the hospital buildings proper by an internal passage.
 
 PRE_RELIED : The hospital derived a substantial income from letting the rooms for public entertainments, concerts, etc., for periods varying from one night to six months and applied the income to the general maintenance of the hospital.
@@ -1295,7 +1295,7 @@ PRE_RELIED :
 The House of Lords held that the profits derived from the letting of the rooms were assessable to Income Tax under Schedule D, either under Case 1, as the profits of a trade or business, or under Case VI of that Schedule.
 
 
-Case id : 4079
+Id : 4079
 PRE_RELIED : In K.C. Aggarwal v. Delhi Administration(1), this Court has held that a complaint filed by one of the officers of a local authority', at the instance of that authority is in law a complaint institut- (1) Criminal Appeal No. 100 of 1966 decided on 27th May, 1969;ed by that local authority.
 
 PRE_RELIED : This Court refused to entertain for the first time an objection as regards the validity of a sanction granted in Mangaldas Raghavji and Anr. v. State of Maharashtra and Anr.
@@ -1304,11 +1304,11 @@ PRE_RELIED : The correct view of the law on the subject is as stated in the deci
  
 
 
-Case id : 4148
+Id : 4148
 
-Case id : 4135
+Id : 4135
 
-Case id : 4228
+Id : 4228
 PRE_RELIED : The reason, supposedly supported by an English decision, is that purchase primarily means acquisition for money paid, not adjusted Upjohn, J. in Habshaw Brothers Ltd. v. Mayer
 
 PRE_RELIED : has circumspectly said : There are no doubt to be found authorities and statutes which have extended that meaning.
@@ -1318,7 +1318,7 @@ PRE_RELIED : In Mr. T.
  
 
 
-Case id : 4183
+Id : 4183
 PRE_RELIED : This Court in ITA No.536/2015 C/w ITA No.537/2015    delivered           on  25.06.2018 (Prl. Commissioner of Income Tax & Anr. Vs.
  M/s. Softbrands India Pvt. Ltd.,) has held that in these type of cases, unless an ex-facie perversity in the findings of the learned Income Tax Appellate Tribunal is established by the appellant, the appeal at the instance of an assessee or the Revenue under Section 260-A of the Act is not maintainable.
 
@@ -1332,11 +1332,11 @@ PRE_RELIED : Had it been a case of substantial question of interpretation of pro
 PRE_RELIED : On the other hand, the appeals of the present tenor as to whether the comparables have been rightly picked up or not, Filters for arriving at the correct list of comparables have been rightly applied or not, do not in our considered opinion, give rise to any substantial question of law.
 
 
-Case id : 4220
+Id : 4220
 
-Case id : 4072
+Id : 4072
 
-Case id : 4091
+Id : 4091
 PRE_RELIED : This position has been settled by this Court in the cases of Gajanand v. State of Uttar Pradesh, AIR 1954 SC 695; Kanbi Nanji Virji v. State of Gujarat AIR 1970 SC 219; Puran v.
 State of Rajasthan, AIR 1976 SC 912 and Vishvas Aba Kurane v. State of Maharashtra, AIR 1978 SC 414.
 
@@ -1377,9 +1377,9 @@ PRE_RELIED : it was said:- "It is settled law that an admission made by a person
 PRE_RELIED : An admission must be used either as a whole or not at all."
 
 
-Case id : 4114
+Id : 4114
 
-Case id : 4259
+Id : 4259
 PRE_RELIED : , The principle which was applied by this Court in Venkatachalam v. Bombay Dyeing & Mfg. Co. Ltd. (1) is equally applicable here.
 
 PRE_RELIED : 
@@ -1387,7 +1387,7 @@ PRE_RELIED :
  Income-tax Officer (2), that the proviso was not mandatory in character.
 
 
-Case id : 4212
+Id : 4212
 PRE_RELIED : 
  5. The Hon'ble Apex Court in the case of Gian Singh V/s State of Punjab and another, reported in (2012) 10 SCC Page No.303 has laid down the certain principles as to in what circumstance, the proceedings can be quashed particularly, when the dispute is matrimonial and private in nature.
 
@@ -1404,11 +1404,11 @@ PRE_RELIED : Held, only because FIR / charge sheet incorporates provisions of Se
 PRE_RELIED : Quashment of proceedings depends on facts and circumstances of each case  
 
 
-Case id : 4280
+Id : 4280
 
-Case id : 4208
+Id : 4208
 
-Case id : 4158
+Id : 4158
 PRE_RELIED : In Commis- sioner of Income Tax, Madras v. Veeraswami Nainar & Ors., 55 ITR p. 35, the Madras High Court took the view that develop- ment rebate reserve should be made at the time of making up the Profits and Loss Account.
 
 PRE_RELIED : This view was affirmed by this Court in Indian Overseas Bank's Ltd. v. Commissioner of Income Tax, 77 ITR 5 12..
@@ -1420,14 +1420,14 @@ PRE_RELIED : The Gujarat High Court in Surat Textile Mills Ltd. v. Commissioner 
 PRE_RELIED : In this connection Veerabha-dra Iron Foundary & Anr. v. Commissioner of Income Tax, 69 I.T.R. 425; Tata Iron and Steel Co. Ltd. v.N.C. Upadhyaya, 96 I.T.R.p. 1 and The Commissioner of Income Tax v. Sardar Singh, 86 ITR 387 (Punjab) may be seen.
 
 
-Case id : 4193
+Id : 4193
 
-Case id : 4161
+Id : 4161
 PRE_RELIED : 
 As this Court has held in the Delhi Cloth and General Mills Ltd. v. Kushal Bhan,(1) it is desirable that if the incident giving rise to a charge framed against a workman in a domes- tic enquiry is being tried in a criminal court, the employer, should stay the domestic enquiry pending the final disposal of the criminal case.
 
 
-Case id : 4102
+Id : 4102
 PRE_RELIED : In Bhagia Sahoo vrs. State of Orissa reported in (2002) 93 CLT 684 where his Lordship has observed that when the liquor seized is not produced before the Court and no reason for such non production is provided and the independent witness is not supporting the seizure, the evidence provided by the prosecution is not sufficient for conviction.
 
 PRE_RELIED : The Hon'ble Apex Court upheld in Mukhitiar Ahmed Ansari Vrs NCT of Delhi 2005 31 OCR (SC) 257 that investigation by the same police official who had lodged the complaint is deprecating practice and in absence of any independent corroboration no conviction can be recorded in such a case.
@@ -1435,7 +1435,7 @@ PRE_RELIED : The Hon'ble Apex Court upheld in Mukhitiar Ahmed Ansari Vrs NCT of 
 PRE_RELIED : In Shimanchal Choudhury Vrs. State of Orissa reported in 2005 (ii) OLR 40 it has been held by the Hon'ble Court that Excise Officer bearing some experience due to long service can not be termed as an expert in terms of Section-45 of the Indian Evidence Act.
 
 
-Case id : 4128
+Id : 4128
 PRE_RELIED : 
 We had occasion to consider this provision in Akhlakali Hayatalli v. The State of Bombay(1) where we approved of the following observations of their Lordships of the Privy Council in Ramanugrah Singh v. The Emperor(2): " The powers of the High Court in dealing with the reference are contained in sub-section (3).
 
@@ -1455,39 +1455,39 @@ It, however, (I) [1954] S.C.R. 435. 442.
 (2) A.I.R. 1946 P.C. 151, 154.the High Court considers that upon the evidence no reasonable body- of men could have reached the conclusion arrived at by the jury, then the reference was justified and the ends of justice required that the verdict be disregarded."
 
 
-Case id : 4172
+Id : 4172
 
-Case id : 4255
+Id : 4255
 PRE_RELIED : Vemireddy Satyanarayan Reddy v. The State of Hyderabad.
 
 PRE_RELIED : The discovery of the buttons with bloodstains at the instance of the appellant is a circumstance which may raise the presumption of the participation of the appellant in the murder, In Wasin Khan v. The State of Uttar Pradesh (1), it was held that the recent and unexplained possession of stolen property would be presumptive evidence against a prisoner on a charge of robbery as also of a charge of murder.
 
 
-Case id : 4192
+Id : 4192
 PRE_RELIED : That decision was affirmed by this Court in Kishanchand Lunidasing Bajaj v. Commissioner of Income-tax, Bangalore(2 ).
 
 PRE_RELIED : Therein this Court held that where the shares acquired with the funds of H.U.F. were held in the name of the karta, the H.U.F. could be assessed to tax under the Act on the dividend from those shares.
 
 
-Case id : 4223
+Id : 4223
 
-Case id : 4139
+Id : 4139
 
-Case id : 4167
+Id : 4167
 
-Case id : 4095
+Id : 4095
 
-Case id : 13658
+Id : 13658
 
-Case id : 4254
+Id : 4254
 PRE_RELIED : 16. This Court in Sony Ericsson India Pvt. Ltd. (supra) categorically found that the BLT was not an appropriate yardstick for determining the existence of an international transaction or for that matter for calculating the ALP of such transaction.
 
 PRE_RELIED : 18. This Court has in similar circumstances in a series of decisions including Maruti Suzuki Ltd. (supra); Bausch & Lomb Eye care (India) Pvt. Ltd. v. Additional CIT (2016) 381 ITR 227 (Del) and Honda Siel Power Products Ltd. v. Dy. CIT (2016) 237 Taxman 304 emphasized the importance of the Revenue having to first discharge the initial burden upon it with regard to showing the existence of an international transaction between the Assessee and the AE.
 
 
-Case id : 4165
+Id : 4165
 
-Case id : 4103
+Id : 4103
 PRE_RELIED : In Afrahim Sheikh and others v. State of West Bengal(1) Hidayatullah J. as he then was, has pointed out that it was possible to apply the ingredients of section 34 in relation to the commission of an offence tinder section 304 Part II, even though death is caused with the knowledge of the persons participating in the occurrence that by their act death was likely to be caused.
 
 PRE_RELIED : The sharing of the common intention, as pointed out in that case, is the commission of the act or acts by which death was occasioned.
@@ -1506,9 +1506,9 @@ PRE_RELIED :
  The injuries found on the person of the deceased by P. W. 5 Dr. S. Kalita, who held the autopsy over the dead body were of a very severe nature.
 
 
-Case id : 4100
+Id : 4100
 
-Case id : 4163
+Id : 4163
 PRE_RELIED : (See: Yehwant & Anr. v. State of Maharashtra;(1) and Sukh Ram v. State of U.P.)(2).
 
 PRE_RELIED : 
@@ -1528,9 +1528,9 @@ PRE_RELIED :
  P.H.P.                                      Appeal dismissed
 
 
-Case id : 4227
+Id : 4227
 
-Case id : 4136
+Id : 4136
 PRE_RELIED : Vide the observations of the Lord President and of Lord Adam in Maughan v. Free Church of Scotland (1) and the observations of Lord Hanworth, M. R., in Keren Kayemeth Le Jisroel Ltd. v. The Commissioners of Inland Revenue (2) at p. 36 that " the right to exemption under Section 37 must be established by those who seek it.
 
 PRE_RELIED : 
@@ -1575,7 +1575,7 @@ PRE_RELIED : There is no process of agriculture involved in the raising of these
 PRE_RELIED : This view is no longer tenable in view of the decision of this Court in The Commissioner of Income-tax, West Bengal, Calcutta v. Raja Benoy Kumar Sahas Roy (1).
 
 
-Case id : 4236
+Id : 4236
 PRE_RELIED : 
  29. The Hon'ble Supreme Court in case of Sunil Mahadeo Jadhav V/s State of Maharashtra, (2013) 15 SCC 177 has drawn reference to Section 106 of the Evidence Act 1872 which states that when any act is especially within the knowledge of any person, the burden of proving that fact is upon him.
 
@@ -1608,13 +1608,13 @@ PRE_RELIED : Further the acts and circumstances proved by the prosecution brings
  34.
 
 
-Case id : 4189
+Id : 4189
 
-Case id : 4269
+Id : 4269
 
-Case id : 4143
+Id : 4143
 
-Case id : 4272
+Id : 4272
 PRE_RELIED : The decision of the Delhi High Court in Commissioner of Income-tax vs.
  Rajasthan Mercantile Co. Ltd.etc. etc.,[1995] 211 ITR 400 is in line with the Gujarat view.
 
@@ -1650,13 +1650,13 @@ PRE_RELIED : This provision widens the concept of "entertainment expenditure" by
 PRE_RELIED : . Therefore, the widened meaning cannot be extended to past periods when the amended Explanation 2 was not in operation."
 
 
-Case id : 4145
+Id : 4145
 
-Case id : 4166
+Id : 4166
 
-Case id : 4171
+Id : 4171
 
-Case id : 4271
+Id : 4271
 PRE_RELIED : 6. However, this Court in a recent judgment in ITA No.536/2015 C/w ITA No.537/2015 delivered on 25.06.2018 (Prl. Commissioner of Income Tax & Anr. Vs. M/s.
 
 PRE_RELIED : Softbrands
@@ -1688,17 +1688,17 @@ PRE_RELIED : Therefore we clarify that mere dissatisfaction with the findings of
 PRE_RELIED : The appeals filed by the Revenue are therefore dismissed with no order as to costs."
 
 
-Case id : 4222
+Id : 4222
 
-Case id : 4200
+Id : 4200
 
-Case id : 4214
+Id : 4214
 PRE_RELIED : In Suma Das Vrs.State of Orissa reported in 1993(II) OLR- 392,Hon'ble Court has observed that "Chemical test is the surest test for determining the illicit liquor .Other tests are litmus and hydrometer test but can not be said to be surest unless prosecution establishes by evidence that the officer who made the test was specially skilled because his evidence is to be accepted as evidence of expert U/s 45 of Indian Evidence Act.
 
 PRE_RELIED : Simple statement that the officer has been working in the department for a number of years would not attract Sec 45 of Indian Evidence Act".
 
 
-Case id : 4198
+Id : 4198
 PRE_RELIED : 
                          It cannot be doubted that under that section a conviction based merely on the uncorroborated testimony of an accomplice may not be illegal, the courts nevertheless cannot lose sight of the rule of prudence and practice which in the words of Martin B in Res. v. Boyes (1) (has become so hallowed as to be deserving of respect" and in the words of Lord Abinger "it deserves to have all the reverence of the law".
 
@@ -1714,9 +1714,9 @@ Baskerville (1) as follows "There is Do doubt that the uncorroborated evidence o
 PRE_RELIED : But it has been Ion(,, a rule of practice at common law for the judge to warn the jury of the danger of convicting a prisoner on the uncorroborated testimony of an accomplice, and in the discre- tion of the Judge, to advise them not to convict upon such evidence, but the judge should point out to the jury that it is within their legal province to convict upon such unconfirmed evidence (R. v Stubbs, Dears 555 In re Heunier, 1894 2 Q.B. 415)".
 
 
-Case id : 4120
+Id : 4120
 
-Case id : 4174
+Id : 4174
 PRE_RELIED : 60. The few of the cases which earmarks the concept of rarest of rare case are Bachansingh Vs. State of Punjab, Billa and Ranga in a case wherein rape and murder of victim was committed and her younger brother who in his tender age showed bravery to stand against the accused was also murdered.
 
 PRE_RELIED : More particularly both of the victims were the children of Officer from Defence guarding the border of motherland.
@@ -1746,9 +1746,9 @@ PRE_RELIED :
  72.
 
 
-Case id : 4238
+Id : 4238
 
-Case id : 4117
+Id : 4117
 PRE_RELIED : 
 In Commissioner of Income-tax, Bombay South, Bombay v. Ogale Glass Works Ltd.
 
@@ -1822,7 +1822,7 @@ PRE_RELIED : It was also held that there was an implied agreement between the pa
 PRE_RELIED : The sale proceeds which included the profit element therein were, in the opinion of this Court, received in British India where the cheques were posted, and the profits in respect of the sales were taxable under section 4(1) (a) of the Act.
 
 
-Case id : 4252
+Id : 4252
 PRE_RELIED : In the case of Issardas Daulat Ram & Ors. v. The Union of India & Ors.(2) this Court, after discussing the admitted circumstances of the case, found that the relevant pieces of evidence would prove the guilty knowledge of the accused.
 
 PRE_RELIED : 
@@ -1891,11 +1891,11 @@ PRE_RELIED : The inscriptions on them and writing on the boxes were parts of the
 PRE_RELIED : The appellant's conduct, including his untruthful denial of their possession, indicated consciousness of their smuggled character or mens rea."
 
 
-Case id : 4239
+Id : 4239
 
-Case id : 4284
+Id : 4284
 
-Case id : 4202
+Id : 4202
 PRE_RELIED : It was held by the Bombay High Court that section 11 of the Income Tax Act makes provision in respect of Vs.
                                          
 
@@ -1910,9 +1910,9 @@ PRE_RELIED : A similar view was also taken by the Division Bench of Bombay High 
                                                                      Mangalore Urban Development Authority 12/13 principles and if commercial principles are applied, then adjustment of expenses incurred by the trust for charitable and religious purposes in the earlier years against the income earned by the trust in the subsequent year will have to be regarded as application of income of the trust for charitable and religious purposes in the subsequent year.
 
 
-Case id : 4086
+Id : 4086
 
-Case id : 4188
+Id : 4188
 PRE_RELIED : The controversy involved herein is no more res integra in view of the decision of this Court in I.T.A.
 Nos.536/2015 c/w 537/2015 dated 25.06.2018 (Prl.
 Commissioner of Income Tax & Anr. v- M/s Softbrands India Pvt. Ltd.,) wherein it has been observed that unless the finding of the Tribunal is found ex facie perverse, the Appeal u/s. 260-A of the Act, is not maintainable.
@@ -1938,9 +1938,9 @@ PRE_RELIED :
  58. The appeals filed by the Revenue are therefore dismissed with no order as to costs."
 
 
-Case id : 4210
+Id : 4210
 
-Case id : 4093
+Id : 4093
 PRE_RELIED : What we have held above is duly supported by the division bench judgment of Kerala High Court.
 
 PRE_RELIED : It was a case in which the assessee before the court was Kerala State Electricity Board, a statutory corporation constituted under Section 5 of the Electricity (Supply) Act, 1948.
@@ -1957,7 +1957,7 @@ PRE_RELIED : It was noticed that the Board was required to keep and maintain its
 PRE_RELIED : In that view of the matter it was held that section 115JB would not apply to the Electricity Board.
 
 
-Case id : 4155
+Id : 4155
 PRE_RELIED : 
 A similar view was again expressed in two other cases, viz., Indian Aluminium Co. Ltd. v.
 Commissioner of Income-tax (2) and Kanhaiyalal Lohia v. The Commissioner of Income-tax (3).
@@ -1967,11 +1967,11 @@ PRE_RELIED : In Rajputana Textiles v. Commissioner of Income-tax (2), the conver
 PRE_RELIED : There, on the facts and circumstances of the case, it was held that a particular deal in shares was a commercial venture and had all the attributes of an adventure in the nature of trade.
 
 
-Case id : 4122
+Id : 4122
 
-Case id : 4150
+Id : 4150
 
-Case id : 4096
+Id : 4096
 PRE_RELIED : 
  It is to be seen that the Supreme Court, while dealing with a prayer for anticipatory bail , in Gurubaksh Singh, supra, has held as follows:- "In regard to anticipatory bail, if the proposed accusation appears to stem not from motives of furthering the ends of justice but from some ulterior motive, the object being to injure and humiliate the applicant by having him arrested, a direction for the release of the applicant on bail in the event of his arrest would generally be made.
                
@@ -1993,9 +1993,9 @@ PRE_RELIED : , we are of the opinion that this Court has jurisdiction to enterta
  
 
 
-Case id : 4132
+Id : 4132
 
-Case id : 4130
+Id : 4130
 PRE_RELIED : 
  8]  It is worth to mention that the Honourable Apex Court in the case of Madhavrao Jiwaji Rao Schindia AIR 1988 SC 709 above categorically elucidated in paragraph No. 7 as under: "7.
 
@@ -2012,9 +2012,9 @@ PRE_RELIED :
  Moreover, if the allegations in the FIR against the applicants are taken at their face value and accepted the same in its entirety would not constitute any offence or make out case against applicants, in such circumstances, there would not be any propriety to allow the prosecution to proceed further into the matter.
 
 
-Case id : 4240
+Id : 4240
 
-Case id : 4279
+Id : 4279
 PRE_RELIED : The guidelines issued in Govind @ Bhai Ganesh Tilve (supra) read as under : "a) There shall be a Screening Committee in every District and in every Commissionerate area.
 
 PRE_RELIED : In the District the Screening Committee shall consist of the District Magistrate and the Superintendent of Police.
@@ -2055,7 +2055,7 @@ PRE_RELIED :
  j) The above timeframe should be adhered to as far as possible.
 
 
-Case id : 4159
+Id : 4159
 PRE_RELIED : In so far as the first part of the question is concerned, whether the liability to pay sales tax of Rs.3,22,482/- being refund of sales tax received by the assessee during the relevant year was chargeable to tax, learned counsel for the parties are agreed that in view of the decision in Polyflex (India) Pvt. Limited v. Commissioner of Income Tax [2002] 257 ITR 343 (SC) this part of the question is required to be answered in the affirmative, that is in favour of the Revenue and against the assessee.
 
 PRE_RELIED : 
@@ -2066,7 +2066,7 @@ PRE_RELIED : This view was upheld by the Hon'ble Supreme Court in Union of India
 PRE_RELIED : The Supreme Court held that since under Section 41 of the Act the liability to tax would depend on the outcome of the appeal, there would be no prejudice to the department if the provision is made and the assessment is made on that basis.
 
 
-Case id : 4073
+Id : 4073
 PRE_RELIED : 10. This Court in Muralidhar @ Gidda & Anr. v.
  State of Karnataka3 referred to several earlier judgments        dealing with appeals against acquittals and observed that the appellate court must bear in mind the following : "12. .. ..
        (i) There is presumption of innocence in favour of an accused person and such 2 (1952) 3 SCR 193 3 (2014) 5 SCC 730  12 (i-iv) presumption is strengthened by the order of acquittal passed in his favour by the trial court; (ii) The accused person is entitled to the benefit of reasonable doubt when it deals with the merit of the appeal against acquittal; (iii) Though, the powers of the appellate court in considering the appeals against acquittal are as extensive as its powers in appeals against convictions but the appellate court is generally loath in disturbing the finding of fact recorded by the trial court.
@@ -2099,16 +2099,16 @@ PRE_RELIED :
    3. If two reasonable views can be reached--one that leads to acquittal, the other to conviction--the High Courts/appellate courts must rule in favour of the accused."
 
 
-Case id : 4146
+Id : 4146
 PRE_RELIED : 
 In the case of M/s. Thimmasamudram Tobacco Co. v. Assistant Collector of Central Excise, Nellore Dt. Nellore(2) while construing the provisions of the Central Excise and Salt Act which was almost on identical terms as the Customs Act a Division Bench of the Andhra Pradesh High Court observed as follows : "Assuming that section 35 of the Central Excise Act does not clothe the appellate authority with power to remand the matter to the officer whose orders is appealed against nothing stands in the way of the Assistant Collector initiating the proceedings afresh, when his order was quashed not on merits but on technical grounds, i.e. for not following either the procedure or the dictates of natural justice.
 
 PRE_RELIED : In a case where the flaw in the order appealed against consists of in the non-observance of certain procedure or in not giving effect to the maxim 'audi alteram partem', it is open to the officer concerned to start the procedure once against with a view to follow the rules of procedure and the principles of natural justice".
 
 
-Case id : 4260
+Id : 4260
 
-Case id : 4069
+Id : 4069
 PRE_RELIED : 
  3. After hearing the learned counsel appearing for the appellant-Revenue, we find that, the issues which arise for consideration in the present appeal are already covered by the decision of this Court dated 21.6.2016 in ITA No.604/2015 and other matters in case of The Commissioner of Income Tax and others Vs. The National Co-operative Bank Limited.
 
@@ -2129,7 +2129,7 @@ PRE_RELIED : 20. The learned counsel for the Assessee as brought to our notice t
 PRE_RELIED : Similar view has also been expressed by the Pune Bench of the ITAT in the case of Ozer Merchant Co- operative Bank ITA No.1588/PN/2012 order dated 30.10.2013.
 
 
-Case id : 4185
+Id : 4185
 PRE_RELIED : 
 As regards the first contention, the question is now concluded by the decision of this Court in The State of Madras v. Gannon Dunkerley & Co. (Madras) Ltd. (1) in which it has been held that the expression " sale of goods " in Entry 48 has the same meaning which it has in the Indian Sale of Goods Act, 1930, that in a building contract there is no sale of materials as such, and that it is therefore ultra vires the powers of the Provincial Legislature to impose tax on the supply of materials.
 
@@ -2159,19 +2159,19 @@ In Hampton J. R. & Co. v. United States (2), which was cited on behalf of the ap
 315(b) of the Tariff Act, 1922, under which the President had been empowered to make such increases and decreases in the rates of duty as were found necessary for carrying out the policies declared in the statute was an unconstitutional delegation, and the decision was that such delegation was not unconstitutional.
 
 
-Case id : 4199
+Id : 4199
 
-Case id : 4106
+Id : 4106
 
-Case id : 4113
+Id : 4113
 
-Case id : 4098
+Id : 4098
 
-Case id : 4241
+Id : 4241
 
-Case id : 4116
+Id : 4116
 
-Case id : 4283
+Id : 4283
 PRE_RELIED : 
  7. In the case of Ishar Das, the Hon'ble Supreme Court has held that It is Manifest from plain reading of sub-section (1) of section 4 of the Act that it makes no distinction between persons of the age of more than 21 years and those of the age of less than 21 years.
 
@@ -2224,13 +2224,13 @@ PRE_RELIED : It also held that provisions of Article 142 of the Constitution can
 PRE_RELIED : Therefore the appeal before the Hon'ble Apex Court was allowed and the accused was directed to undergo sentence imposed by the trial Court for an offence under Section 3(1)(ii) of the SC/ST Prevention of Atrocities Act.
 
 
-Case id : 4231
+Id : 4231
 
-Case id : 4265
+Id : 4265
 
-Case id : 4258
+Id : 4258
 
-Case id : 4160
+Id : 4160
 PRE_RELIED : 
  In view of the decision of this Court in the case of Cambay Electric Supply Industrial Co. Ltd. Vs. Commissioner of Income-tax, Gujarat-II, 113 ITR 84, this question is no longer res integra.
 
@@ -2239,7 +2239,7 @@ PRE_RELIED : Dealing with a similar provision i.e.80 E of the Act prior to its a
 PRE_RELIED : In support thereof, reliance was placed on the judgment of the Punjab & Haryana High Court in Commissioner of Income-tax, Patiala-I Vs. Patiala Flour Mills Co. P. Ltd., 127 ITR 301.
 
 
-Case id : 4134
+Id : 4134
 PRE_RELIED : 
  18. A somewhat, similar situation arose in Kunwar Pal (Supra) wherein this Court held as under: "12.
 
@@ -2254,9 +2254,9 @@ PRE_RELIED : Everybody, who carries a gun with live cartridges and even others k
 PRE_RELIED : Guns must be carried with a sense of responsibility and caution and are not meant to be used in such places like marriage ceremonies."
 
 
-Case id : 4084
+Id : 4084
 
-Case id : 13643
+Id : 13643
 PRE_RELIED : 
  On the other hand, the decisions cited. by learned counsel for the respondents in Vadilal Panchaly.
 
@@ -2274,7 +2274,7 @@ PRE_RELIED : To art extent section 227 of the new Code contains an analogous pow
 PRE_RELIED : It was held by this Court, while considering the true scope of s. 203 of the old Code that the Magistrate. was not bound to accept the result of an enquiry or investigation and that he must apply his judicial mind to the material on which he had to form his judgment
 
 
-Case id : 4105
+Id : 4105
 PRE_RELIED : In a case law as it is reported in 2014 Supp(II) OLR 999 Hari Dehury versus- State of Orissa, Their Lordship held that evidentiary value of the extra judicial confession must be judged in the facts and circumstances of each individual case.
 
 PRE_RELIED : If such extra judicial confession is voluntary and consistent with the circumstantial evidence then only the guilt of the accused can be established.
@@ -2301,22 +2301,22 @@ PRE_RELIED : In another case law as it is reported in (2005) 11 SCC 536 Tanka Ch
 PRE_RELIED : Similarly, in another case law as it is reported in (2000) 7 SCC 2249 State-versus- Indarjit, Their Lordship held that absence of intention to cause a death coupled with lack of knowledge that death would be inevitably caused on account of the injury would make an offence falls only u/s.304,Part-II of IPC, but not u/s. 302 of IPC.
 
 
-Case id : 4112
+Id : 4112
 
-Case id : 4219
+Id : 4219
 
-Case id : 4230
+Id : 4230
 
-Case id : 4263
+Id : 4263
 PRE_RELIED : We accordingly passed order dated January 29, 2018 directing the petitioner to file an affidavit of her income which would be in the fomat as prescribed in the judgment of Delhi High Court in the case of Kusum Sharma v.
        Mahinder Kumar Sharma decided on January 14, 2015 (FAO No. 309/1996).
 
 
-Case id : 4217
+Id : 4217
 
-Case id : 4169
+Id : 4169
 
-Case id : 4262
+Id : 4262
 PRE_RELIED : As observed by this Court in The United Commercial Bank Ltd., Calcutta v. The Commissioner of Income-tax, West Bengal(1) "the scheme of the Indian Income-tax Act, 1922, is that the various heads of income, profits and gains enumerated in s. 6 are mutually exclusive, each head being specific to cover the item) arising from a particular source and, consequently, "interest on securities" which is specifically made chargeable to tax under s. 8 as a distinct head, falls under that section and cannot be brought under s. 10, whether the securities are held as trading assets or capital asset."
 
 PRE_RELIED : In The United Commercial Bank's case(1) the Income Tax Officer split up the income of a Banking Company was in the course of assessment, into two heads"interest on securities" and "business income", and set off the business loss against the income from securities in the year, of assessment, but did not allow the business loss of a previous year to be set off under s. 24(2) against that (1) [1959] S.C.R. 79.income.
@@ -2382,7 +2382,7 @@ PRE_RELIED : But if, as we have held, the scope of sub-s. (2) of s. 26 is only l
 PRE_RELIED : The argument is really begging the question itself."
 
 
-Case id : 4261
+Id : 4261
 PRE_RELIED : 
          It is pertinent to mention here the observations made by this Court in Pritam Singh v. The State, A.I.R. [1950] S.C. 169, which are as follows:- "It will not grant special leave to appeal under Article 136 (1) of the Constitution unless it is shown that exceptional and special circumstances exist, that substantial and grave injustice has been done and the case in question presents features of sufficient gravity to warrant a review of the decision appealed against and that only those points can be urged at the final hearing of A the appeal which are fit to be urged at the preliminary stage when leave is asked for.
 
@@ -2395,7 +2395,7 @@ PRE_RELIED : This decision has been relied upon and followed in a subsequent dec
  
 
 
-Case id : 4278
+Id : 4278
 PRE_RELIED : The Hon'ble Supreme Court in S.R.M.B.Dairy Farming (P.) Ltd. (supra) held as under:- "Appeal to High Court  Monetary limits for litigation by Department  Circular to apply to pending appeals  but Circular not to be applied by court ipso facto when matter has cascading effect or where common principles involved in large number of matters Income Tax Act, 1961 ss. 260A, 268A  Instruction No.3 of 2011, dated 9-2-2011.
  The view adopted by the Delhi High Court making the circular applicable to pending matters came up before a three- Judges Bench of this Court in SLP (C) No.CC 13694 of 2011 titled CIT v. Surya Herbal Ltd. when the following order was passed on August 29, 2011: "Delay condoned.
  The Commissioner of Income-Tax & Anr.
@@ -2429,7 +2429,7 @@ v. CCE on the general principle of application of circulars.
 PRE_RELIED : Reliance was placed on the view expressed in CCE v. Mysore Electricals Industries Ltd. opining that a beneficial circular has to be applied retrospectively while an oppressive circular has to be applied prospectively.
 
 
-Case id : 4206
+Id : 4206
 PRE_RELIED : 
  75. Referring to M.P.V.Sundararamier & Co.
 Sabyasachi Mukharji, J. (as His Lordship then was) speaking for six out of the seven Judges constituting the Bench in Synthetics and Chemicals Ltd.
@@ -2439,13 +2439,13 @@ PRE_RELIED : V. State of U.P. held that under the constitutional scheme of divis
 PRE_RELIED : A tax cannot be levied under a general entry.
 
 
-Case id : 4075
+Id : 4075
 
-Case id : 4138
+Id : 4138
 PRE_RELIED : As such, the law laid down by our Hon'ble High Court in the case of Dasapa Setty v/s Thammannagowda (report in A.I.R. 1994 Kar. 153) is aptly applicable to the case in hand.
 
 
-Case id : 4071
+Id : 4071
 PRE_RELIED : 
 In S. M. S. Karuppiah Pillai v. Commissioner of Income-tax, Madras(1), in dealing with the effect of s. 44 of the Indian Income-tax Act, 1922, before it was amended by Act 7 of 1939, a Full Bench of the Madras High Court observed "This section (s.44) only applies when there has been discontinuance of the, business, The section (1) 911.T.R. I.                         says that if a business is discontinued the partners shall nevertheless be jointly and severally liable for the profits which had been earned".
 
@@ -2464,7 +2464,7 @@ PRE_RELIED : In Commissioner of Income-tax, Madras and Another v. S. V. Angidi C
 (2) 44 I. T. R 739.Section 44 therefore only applied to those cases in which there had been discontinuance of the business and not to case, in which the business continued after reconstitution of the firm or there was succession to the business.
 
 
-Case id : 4154
+Id : 4154
 PRE_RELIED : The Apex Court in AIR, 1966 S.C.
  119" (Aghnoo Nagesia Vs. State of Bihar)
 
@@ -2484,13 +2484,13 @@ PRE_RELIED :
  17.  The Apex Court in Raghavan Achari (Supra) acquitted the accused as that was the case of self defence, as the accused had caused grievous injuries to the appellant first and the appellant having seen the deceased in compromising position with his wife, and therefore, in this background the appellant had inflicted with the chopper, which resulted into the death of the deceased.
 
 
-Case id : 4175
+Id : 4175
 
-Case id : 4119
+Id : 4119
 
-Case id : 4181
+Id : 4181
 
-Case id : 4092
+Id : 4092
 PRE_RELIED : In so far as the second question is concerned, the matter is now settled by the decision of this Court in B. C. Mitter & Sons v. Commissioner of Income-tax (1).
 
 PRE_RELIED : The leading case in support of the respondents is the Madras decision reported in Jakka Devayya and Sons v. Commissioner of Income-tax (1), and that case alone needs to be considered, because all the reasons on which the cases on this side have proceeded are given there.
@@ -2508,7 +2508,7 @@ PRE_RELIED :
  In Banka Mal Lajja Ram & Co. v. Commissioner of Income-tax (5), it is held that a minor cannot be a partner, and that the partnership which admits a minor as full partner cannot be registered.
 
 
-Case id : 4125
+Id : 4125
 PRE_RELIED : This Court in a recent judgment-C. A. Abraham v. Income-tax Officer, Kottayam (1)-held that the Income-tax Officer had power under s. 28 of the Income-tax Act to impose penalty in the course of assessment of a firm even if the firm stood at the date of the order dissolved by the death of one of its partners.
 
 PRE_RELIED : In so holding, this Court observed that s. 44 of the Income-tax Act sets up machinery for assessing tax liability of a firm which has discontinued its business and that the expression "assessment" in the different sections ofChapter IV of the Income-tax Act was not used merely in the sense of computation of income, and when s. 44 declared that the partners or members of the firm shall be jointly and severally liable to assessment, it referred to the liability to computation of income under s.23 as well as the application of the procedure for declaration and imposition of tax liability and the machinery for enforcement thereof.
@@ -2527,7 +2527,7 @@ PRE_RELIED : Chief Justice Chakravartti, speaking for the Court, observed, "....
 PRE_RELIED : Clause (b) of the proviso to my mind emphasizes that meaning of the concluding paragraph of Section 28 (1) and rests on an assumption that under that provision a person may be chargeable to penalty although he may not be chargeable to tax."
 
 
-Case id : 4090
+Id : 4090
 PRE_RELIED : It has been observed even in the said case that the provisions of Section 337(2) of the old Code of Criminal Procedure, 1898 (5 of 1898) provide that the approver who has been tendered pardon must be examined both in the Committing Court and the Court of Sessions it has been held that: "The obligation to make a full and true disclosure would arise whenever the approver is lawfully called upon to give evidence touching the matter; it may be in the Committing court, or, it may be in he Sessions Court.
 
 PRE_RELIED : But, the obligation to make a full and true disclosure rests on the approver at every stage at which he can be lawfully required to give evidence.
@@ -2554,7 +2554,7 @@ PRE_RELIED : [1968] 2 SCR 626 wherein it has been observed by Hidayatullah, J as
 PRE_RELIED : The safeguard to this compulsion is that no such answer which the witness is compelled to give exposes him to any arrest or prosecution or can ii be prove i against him in any criminal proceeding except a prosecution for giving false evidence by such answer."
 
 
-Case id : 1711
+Id : 1711
 PRE_RELIED : One class of case, of which Wadero Abdul Rahman v. Sadhuram(1) is a sample, holds that "ordinarily"
 means "in the majority of cases" and that it has no reference to the particular case in hand.
 
@@ -2566,14 +2566,14 @@ M. S. Sheriff v. The State of Madras and Others,(1) was quoted but the present p
 PRE_RELIED : Keshardeo Chamria v. Radha Kissen Chamria and Other8(1) and many cases from the High Courts were cited which show that there is much difference of opinion about this but we are fortunately not called upon to decide that question because this is not a case where a Court with jurisdiction has acted under section 476 of the Criminal Procedure Code of its own motion or has acted as a Court of appeal under section 476-B.
 
 
-Case id : 1746
+Id : 1746
 
-Case id : 1720
+Id : 1720
 PRE_RELIED : 
  6. We have by our judgment in Criminal Appeal No. 475 of 1983 (Smt. Yamunabai v. Anantrao Shivram Adhav and another) delivered today held that the marriage of a Hindu woman with a Hindu male with a living spouse performed after the coming in force of the Hindu Marriage Act, 1955, is null and void and the woman is not entitled to maintenance under s. 125 of the Code.
 
 
-Case id : 1718
+Id : 1718
 PRE_RELIED : Three stages for imposition of tax was culled out by the Apex Court in Chatturam Holiram Ltd.
 
 PRE_RELIED : Vs. CIT reported in AIR 1955 SC 619 and the stages are mentioned as under :- “
@@ -2603,7 +2603,7 @@ PRE_RELIED :
 PRE_RELIED : It was thus held that the impugned action of making a general assessment of all the transactions in exercise of powers under Section 17(4) and 9(2) of the 1956 Act and raise a demand for tax, without examining each and every transaction to determine whether any tax was at all collected, cannot be countenanced.
 
 
-Case id : 1723
+Id : 1723
 PRE_RELIED : The law on the above point is neatly summarised in Income Tax Officer v. M.C. Ponnoosse & Ors.
 
 PRE_RELIED : [1970] 1 S.C.R. 678 at pages 681-682 thus : "Now it is open to a soverign legislature to enact laws which have retrospective operation.
@@ -2616,7 +2616,7 @@ PRE_RELIED : The courts will not, therefore, ascribe retrospectivity to new laws
 PRE_RELIED : But where no such language is to be found it has been held by the courts that the person or authority exercising subordinate legislative functions cannot make a rule, regulation or bye- law which can operate with retrospective effect; (see Subba Rao, J. in Dr. Indramani Pyarelal Gupta v. W.R. Nathu & Others 620 (1963 S.C.R. 721) - the majority not having expressed any different opinion on the point; Modi Food Products Ltd. v. Commissioner of Sales Tax U.P. (A.I.R. 1956 All. 35); India Sugar Refineries Ltd. v. State of Mysore (A.I.R. 1960 Mys. 326) and General S. Shivdev Singh & Anr. v. The State of Punjab & Others (1959 P.L.R. 514)."
 
 
-Case id : 1722
+Id : 1722
 PRE_RELIED : The expression "genuine hardship", has been considered by the Hon'ble Supreme Court in the case of B.M.MALANI V.
 CIT [(2008) 306 ITR 196 (SC)], to mean not fake or counterfeit, real, not pretending (not bogus or merely a ruse).
 
@@ -2643,7 +2643,7 @@ PRE_RELIED : In other words, what the Board should consider is hardship to the p
 PRE_RELIED : The Board should condone the delay if failure to condone the delay causes genuine hardship to the assessee, no matter whether the delay in filing return is meticulously explained or not.
 
 
-Case id : 1721
+Id : 1721
 PRE_RELIED : 
 In this decision expenditure for securing an advantage which was to last at least for a period of five years was not treated to have enduring benefit.
 
@@ -2691,7 +2691,7 @@ T, [1980] 124 ITR I, this Court held that expenditure made by an assessee for th
 PRE_RELIED : The Court observed that if the advantage consists merely in facilitat- ing the assessee's trading operations of enabling the man- agement and conduct of the assessee's business to be carried on more efficiently or more profitably while leaving 326 he fixed capital untouched, the expenditure would be on revenue account even though the advantage may endure for an indefinite future.
 
 
-Case id : 1767
+Id : 1767
 PRE_RELIED : 
  9. In the case of Lohit KoushalVersusState of Harayana (2009), 17 SCC 106, it has been held that, kidnapping as understood U/s. 364 A IPC is a truly reprehensible crime and when a helpless child is kidnapped for ransom and that too by a close relative, the incident becomes all the more unacceptable.
 
@@ -2712,16 +2712,16 @@ PRE_RELIED :
  In the case of Sebak PerumarVersusState of Tamilnadu, 1991, 3 SCC 471, the Hon'ble Apex Court has cautioned that, undue sympathy to impose indequate sentence would do more harm to the Justice delivery system to undermine the public confidence in the efficacy of law and society could not long endure under serious threats.
 
 
-Case id : 1777
+Id : 1777
 PRE_RELIED : 
  24) The recourse followed in the case in hand by the High Court in substituting the death penalty by imposing the sentence for a term not less than 25 years' actual imprisonment has got the seal of approval of this court in V. Sriharan (supra) case, which has been consistently and continuously followed in a catena of later decisions also.
 
 PRE_RELIED : [Ref. (i) Raju Jagdish Paswan vs. The State of Maharashtra ; 2019 (1) SCALE 735; (ii) Jagdish Vs. State of Madhya Pradesh; 2019(3) SCALE 888 & (iii) Sachin Kumar Singhraha vs. State of Madhya Pradesh; 2019(5)SCALE 39] 25) The cited decisions have indeed more intuitive and persuasive value in the instant case for the reason that the death sentence in those cases was commuted regardless of its confirmation by the High Court(s).
 
 
-Case id : 1773
+Id : 1773
 
-Case id : 1771
+Id : 1771
 PRE_RELIED : 
  18. The second case cited is State of U.P. vs Arun Kumar Gupta (AIR 2003 SC 801).
 
@@ -2735,11 +2735,11 @@ PRE_RELIED :
 PRE_RELIED : the case of Joseph s/o Kooveli Poulo vs State of Kerala (2000) 5 SCC 197, deceased, an employee of a school was taken away from the school by the accused-appellant under a false pretext.
 
 
-Case id : 1768
+Id : 1768
 
-Case id : 1755
+Id : 1755
 
-Case id : 1751
+Id : 1751
 PRE_RELIED : 12. In Re. Suo Motu Proceedings against R. Karuppan, Advocate4, this Court observed as under: "13.
 
 PRE_RELIED : Courts are entrusted with the powers of dispensation and adjudication of justice of the rival claims of the parties besides determining the criminal liability of the offenders for offences committed against the society.
@@ -2766,7 +2766,7 @@ PRE_RELIED : The stream of justice has to be kept clear and pure and no one can 
 PRE_RELIED : We have noticed         a disturbing trend of some medical colleges in projecting fake faculty and patients for obtaining 6 (2015) 4 SCC 580  45.6 -Medical Council of India v. M.G.R. Educational & Research Institute University and (2016) 11 SCC 530 31, 31.2 & 31.4  Medical Council of India v. Kalinga Institute of Medical Sciences (KIMS) permission for admission of students.
 
 
-Case id : 1732
+Id : 1732
 PRE_RELIED : Kania C.J. at pp. 111-113 said that the term 'law' in that Article must mean the law of the State or enacted law, and not rules of natural justice.
 
 PRE_RELIED : Fazl Ali J. who was in the minority, said at page 169 that 'law' must include certain principles of natural justice.
@@ -2812,7 +2812,7 @@ The Constitution confirmed and (1) L.R. 61 I.A. 203,213.
 PRE_RELIED : When the Constitution or any enacted law has embraced and confirmed the inherent powers and jurisdiction of the High Court which previously existed, that power and jurisdiction has the sanction of an enacted saw" within the meaning of Art. 21 as explained in A. K. Gopalan's(l) case.
 
 
-Case id : 1731
+Id : 1731
 PRE_RELIED : Two of the said decisions are as follows : 1. CIT v. Sri Biluru Gurubasava Pattina Sahakari Sangha Niyamitha in ITA No.5006/2013 2. CIT vs. Bangalore Commercial Transporter Credit Society in ITA No.351/2011 & ITA No.599/2013
 
 PRE_RELIED : In interpreting Section 80 P (4) in CIT v. Sri Biluru Gurubasava Pattina Sahakari Sangha Niyamitha of the I T Act, it was held as follows : "If a Co-operative Bank is exclusively carrying on banking business, then the income derived from the said business cannot be deducted in computing the total income of the assessee.
@@ -2843,7 +2843,7 @@ PRE_RELIED :
 PRE_RELIED : In the light of the above contentions and on an examination of the relevant legal provisions, it is to be noticed at the outset that this court in the appeal in ITA 351/ 2011, CIT v. Bangalore Commercial Transport Credit Co-operative Society Limited, decided on 27.6.2014, had framed the following substantial questions of law : "(i) Whether the Tribunal was correct in holding that the provision of sub-section (4) of Section 80P of the Income Tax Act are applicable only to co- operative Banks and not to credit Co-operative Societies, which are engaged in business of banking, including providing credit facilities to their members?
 
 
-Case id : 1766
+Id : 1766
 PRE_RELIED : The position of a Special Judge is that of a Magistrate as settled by the Apex Court in A.R.ANTULAY vs- RAMDAS SRINIWAS NAYAK AND ANOTHER (AIR 1984 SC 718).
 
 PRE_RELIED : 
@@ -2919,9 +2919,9 @@ PRE_RELIED :
          The complaint is simply to be rejected.
 
 
-Case id : 1765
+Id : 1765
 
-Case id : 1782
+Id : 1782
 PRE_RELIED : 
  15.  In the case of Mukesh and another .vs. State (NCT of Delhi)  (2017) 6 Supreme Court Cases 1, the Hon'ble Supreme Court, after taking into account various earlier judgments pertaining to authenticity of DNA test, has held as follows:- "228.
 
@@ -2931,7 +2931,7 @@ PRE_RELIED : If the sampling is proper and if there is no evidence as to tamperi
  
 
 
-Case id : 1780
+Id : 1780
 PRE_RELIED : In this background, similar claim came to be considered by a co-ordinate bench of this Court in the case of VYSYA BANK LTD., VS. JOINT COMMISSIONER OF INCOME TAX AND ANOTHER [2000 (158) CTR (KAR) 60] wherein it has been held that jurisdiction to attach the fixed deposit by the Department and obligation of the Bank to make payment of the amount even before maturity of the fixed deposit receipts cannot be found fault with.
 
 PRE_RELIED : It has been held as under: "10. Power under section 226 has been given to the Income Tax Officer to recover in the modes provided the amount which is outstanding.
@@ -2951,7 +2951,7 @@ PRE_RELIED :
  11.1. In view of the judgment of the Apex Court in Budda Pictures case [1967 (65) ITR 620], there has to be subsisting relationship between the garnishee and the assessee.
 
 
-Case id : 1778
+Id : 1778
 PRE_RELIED : 
  Bhagwati, J. has quoted the above passage with approval in the case of E.D. Sassoon & Company Ltd. and others v. Com- missioner of Income-tax, Bombay City.('2) Almost to the same effect ,was the view (1) [1911] 1 Ch. 92, 98.  (2) 26 I.T.R. 27 at page 46.
  643 expressed by Mahajan, J. as he then was, in the case of Commissioner of Income-tax, Bombay v. Ahmedbhai Umarbhai & Co., Bombay(1) In Commissioner of Income-tax, Bombay City v. Bipinchandra Maganlal & Co. Ltd.('2) Shah, J., as he then was, delivering the judgment on behalf of the Court while interpreting the expression "smallness of profits" occur- ring in section 23A of the 1922 Act said at page 296: "A company normally distributes dividends out of its business profits and not out of its assessa- ble income.
@@ -3010,11 +3010,11 @@ PRE_RELIED :
  In Sheth Haridas Achratlal v. Commissioner of Income-tax, Bombay North, Kutch and Saurashtra, Baroda(1)--Chief Justice Chagla delivering the judgment on behalf of the Bench of the Bombay High Court said at page 690: "But when we compare the language used by the Legislature in sub-clauses (a), (b) and (d) and when we note the omission of the qualifying words in sub-clause (c) then it is clear that the Legislature advisedly did not intend to subject to tax those accumulated profits which had been capitalised."
 
 
-Case id : 1737
+Id : 1737
 
-Case id : 1736
+Id : 1736
 
-Case id : 1735
+Id : 1735
 PRE_RELIED : 
  The apex court, in the decision cited by the learned Counsel for the appellant, in S.S.Chheena vs. Vijaya Kumar Mahajan and another, 2010 (4) Crimes 101, has discussed and reviewed the case law in this regard, with reference to the following authorities :- Mahendra Singh vs. State of M.P., 1995 Supp (3) SCC 731
 
@@ -3076,13 +3076,13 @@ PRE_RELIED : The intention of the legislature and the ratio of the cases decided
  
 
 
-Case id : 1793
+Id : 1793
 
-Case id : 1792
+Id : 1792
 
-Case id : 1789
+Id : 1789
 
-Case id : 1761
+Id : 1761
 PRE_RELIED : 
  29. I have perused the decision relied upon by the leaned counsel appearing for the accused, reported in (2010) 15 SCC 369.
 
@@ -3107,7 +3107,7 @@ PRE_RELIED : Their Lordships have observed as under: "11.
 PRE_RELIED : The FSL report came on March 21, 2005, and on that basis the police submitted charge- sheet against the accused on March 31, 2005, but the alleged narcotic substance that was seized from the accused including the appellant was deposited in the Malkhana about two months later on May 28, 2005, there is no explanation where the seized substance was kept in the meanwhile."
 
 
-Case id : 1758
+Id : 1758
 PRE_RELIED : 
 This observation has been overruled being in the nature of obiter dicta by this Court in a subsequent decision in Khushal Rao v. State of Bombay, [1958] S.C.R. 552.
 
@@ -3122,7 +3122,7 @@ It has been observed by this Court in Jayarajl v. State of Tamil Nadu, A.I.R. 19
 PRE_RELIED : The very brevity of the dying declaration, in the circumstances of the case, far from being a suspicious circumstance, was an index of its being true and free from the taint of tutoring, more so when the substratum of the dying declaration was fully consistent with the occular account given by the eyewitness."
 
 
-Case id : 1757
+Id : 1757
 PRE_RELIED : In Mukeshbhai Gopalbhai Barot (supra), this Court had occasion to consider Sections 161 and 162 of Cr.P.C. and Section 32 of the Evidence Act.
 
 PRE_RELIED : In the above case, the victim, who received burn injuries on 14.09.1993 was admitted to Civil Hospital.
@@ -3193,7 +3193,7 @@ PRE_RELIED : The second paragraph of sub- section (1) reads as follows: "Such st
  
 
 
-Case id : 1743
+Id : 1743
 PRE_RELIED : In M. Pais & Sons & Anr. v. The State of Mysore, (supra), Hegde, J. as the learned judge then was in the Mysore High Court held that as the goods purchased by the petitioner in that case were not covered by any valid 'C' form, sales tax was leviable at 7 per cent, and therefore the penalty that was leviable 10-1/2 per cent of the turnover.
 
 PRE_RELIED : The petitioner, in another case, had manufactured soap and he had included the following goods in his application for certificate of registration under section 8: coconut oil, perfumes, silicate, caustic soda, nails, colours, strappings, papers and rosin.
@@ -3314,11 +3314,11 @@ PRE_RELIED : We should not make a mockery of legislation.
 PRE_RELIED : To make sense out of an unhappily worded provision, where the purpose is apparent to the judicial eye 'some' violence to language is permissible.
 
 
-Case id : 1742
+Id : 1742
 
-Case id : 1740
+Id : 1740
 
-Case id : 1739
+Id : 1739
 PRE_RELIED : At this stage, this court relies upon decisions reported in ILR 2009 KAR 2331 (B. Indramma V/s Sri.
 Eshwar), wherein the Hon'ble court held as follows: "When the very factum of delivery of the cheque in question by the accused to the complainant and its receipt by the complainant from the accused itself is seriously disputed by the accused, his admission in his evidence that the cheque in question bears his signature would not be sufficient proof of the fact that he delivered the said cheque to the complainant and the latte `received it from the former' so as to raise the presumption under Section 139 of the N.I. Act."
 
@@ -3370,9 +3370,9 @@ PRE_RELIED : In this case on hand also, the accused has proved in all probabilit
 PRE_RELIED : So, the burden is on the complainant to prove strictly with cogent and believable evidence that the accused has borrowed the cheque amount and she is legally liable to pay the same.
 
 
-Case id : 1738
+Id : 1738
 
-Case id : 1788
+Id : 1788
 PRE_RELIED : 
  21.     The decision of Ravi Kumar (Supra) deals with unusual and unexplained delay in the filing of the FIR.
 
@@ -3382,22 +3382,22 @@ PRE_RELIED :
  22.     In Dalbir Singh (Supra), the Hon’ble Apex Court propounded that the prosecution witnesses can identify a person with whom he may be fairly acquainted with or from his voice, gait, features etc.
 
 
-Case id : 1787
+Id : 1787
 
-Case id : 1786
+Id : 1786
 
-Case id : 1785
+Id : 1785
 
-Case id : 1784
+Id : 1784
 PRE_RELIED : 
  19. In COMMISSIONER OF INCOME TAX vs SHELLY PRODUCTS AND ANOTHER reported in 2003(261) ITR 367 referred to supra, it has been opined by their Lorships that when the Act enjoins upon the assessee a duty to file return of income disclosing his true income and on the basis of such return of income, if assessment is made, it would not be permissible for the assessee to contend at a later point of time that such return of income filed voluntarily by declaring income thereon and tax paid thereon has to be ignored by the assessing officer and refund has to be made.
 
 
-Case id : 1781
+Id : 1781
 
-Case id : 1779
+Id : 1779
 
-Case id : 1762
+Id : 1762
 PRE_RELIED : It is not necessary to repapitulate all those decisions except stating the essential ingredients as noticed by Pandian, J.
 in the case reported as The State of Uttar Pradesh v. Dr.
 Ravindra Prakesh J. in the case 2 SC 114 at 121, to prove quilt of an accused person by circumstantial evidence.
@@ -3405,7 +3405,7 @@ Ravindra Prakesh J. in the case 2 SC 114 at 121, to prove quilt of an accused pe
 PRE_RELIED : They are:- (1) The circumstance from which tile conclusion is drawn should be fully proved; (2) the circumstances should he conclusive in nature; 888 (3)all the facts so established should he consistent only with the hypothesis of guilt and inconsistent with innocence: (4)the circumstances should. to a moral certainty, exclude the possibility of guilt of any person other than the accused."
 
 
-Case id : 1756
+Id : 1756
 PRE_RELIED : On the other hand, the judgment of Delhi High Court in ANAND AND ANAND v/s COMMISSIONER OF INCOME-TAX is squarely applicable to the facts of the present case.
 
 PRE_RELIED : In the said case, the court was dealing with the legal services rendered by the Firm to a foreign company.
@@ -3446,9 +3446,9 @@ PRE_RELIED :
  13.
 
 
-Case id : 1754
+Id : 1754
 
-Case id : 1752
+Id : 1752
 PRE_RELIED : 
  22. In Postmaster General v. Living Media India Ltd. (2012) 3 SCC 563, the Supreme Court has deprecated the casual attitude of government departments in taking steps to file appeals within reasonable time in the following words: "26. In spite of affording another opportunity to file better affidavit by placing adequate material, neither the Department nor the person in-charge has filed any explanation for not applying the certified copy within the prescribed period.
 
@@ -3457,9 +3457,9 @@ PRE_RELIED : Accordingly, the appeals are liable to be dismissed on the ground o
 PRE_RELIED : In State of Uttar Pradesh v. Amar Nath Yadav (2014) 2 SCC 422 while reiterating the above decision, the Supreme Court declined to condone the delay of 481 days in the State filing a special leave petition against the judgment of the High Court of Allahabad.
 
 
-Case id : 1749
+Id : 1749
 
-Case id : 1748
+Id : 1748
 PRE_RELIED : 
  8. Later, another bench of two Judges of this Court in Tofan Singh v.
  State of Tamil Nadu3 was of the view that the matter required reconsideration and therefore, directed that the matter be placed before a larger bench.
@@ -3515,7 +3515,7 @@ PRE_RELIED : The same view has been expressed by this Court in Kashmira Singh v.
  13.
 
 
-Case id : 1747
+Id : 1747
 PRE_RELIED : 
  13.  Insofar as the view taken by the learned Division Bench of the Allahabad High Court in ECO Products (I) P. Ltd.
  (supra) is concerned, paragraphs 57, 58 and 59 read as under : "57.
@@ -3549,7 +3549,7 @@ PRE_RELIED : The appeal on the said question is clearly excluded under Section 3
 PRE_RELIED : Thus, the preliminary objection of the respondent regarding maintainability of appeal is upheld and Central Excise Appeal Defective No.402 of 2005 is held not maintainable under Section 35-G of the Act."
 
 
-Case id : 1745
+Id : 1745
 PRE_RELIED : Likewise, if the court of fact bases its decision partly on conjectures, surmises and suspicions and partly on evidence, in such a situation an issue of law arises [see Dhirajlal Girdharlal v. Commissioner of Income Tax, Bombay(1)
 
 PRE_RELIED : In the case of Edwards (Inspector of Taxes) v. Bairstow and Another(3), the House of Lords dealt with this aspect of the matter.
@@ -3563,13 +3563,13 @@ PRE_RELIED : The following proposition was laid down in that case : "It follows,
 PRE_RELIED : The Court would be entitled to intervene if it appears that the fact finding authority has acted without any evidence or upon a view of the facts, which could not reasonably be entertained or the facts found are such that no person acting judicially and properly instructed as to the relevant law would have come to the determination in question."
 
 
-Case id : 1744
+Id : 1744
 
-Case id : 1744
+Id : 1744
 
-Case id : 1733
+Id : 1733
 
-Case id : 1730
+Id : 1730
 PRE_RELIED : In Gopal Sah v. State of Bihar 2008(17) SCC 128, this court while dealing with extra judicial confession held that extra judicial confession is, on the face of it, a weak evidence and the Court is reluctant, in the absence of a chain of cogent circumstances, to rely on it, for the purpose of recording a conviction.
 
 PRE_RELIED : 
@@ -3591,9 +3591,9 @@ PRE_RELIED :
  15. It has further been considered by this Court in Sujit Biswas Vs. State of Assam 2013(12) SCC 406 and Raja alias Rajinder Vs. State of Haryana 2015(11) SCC 43.
 
 
-Case id : 1729
+Id : 1729
 
-Case id : 1725
+Id : 1725
 PRE_RELIED : BENCH:
 AHMAD SAGHIR S. (J)
 BENCH:
@@ -3650,7 +3650,7 @@ PRE_RELIED :
 PRE_RELIED : In addition to the trauma of the rape itself, victims have had to suffer further agony during legal proceedings."
 
 
-Case id : 1724
+Id : 1724
 PRE_RELIED : The Revenue relied on the celebrated test laid down by Lord Cave L.C. in British Insulated and Helsby Cables Ltd. v. Atherson where the learned Law Lord stated "When an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital".
 
 PRE_RELIED : It was also pointed out by this Court in Empire Jute Co. Ltd. v.
@@ -3663,13 +3663,13 @@ PRE_RELIED :
  We must also refer to the decision of this Court in Travancore-Cochin Chemicals Ltd. v. C.I.T. (Supra) on which strong reliance was placed on behalf of the Revenue.
 
 
-Case id : 1717
+Id : 1717
 
-Case id : 1715
+Id : 1715
 PRE_RELIED : In the same decision, the Court also took note of the following observations made by a Constitution Bench of this Court in Iqbal Singh Marwah v. Meenakshi Marwah, (2005) 4 SCC 370 in relation to the scope of Section 340 of the CrPC: "23.
 
 
-Case id : 1714
+Id : 1714
 PRE_RELIED : A similar argument was raised before this Court in C. 1. Emden v. State of Uttar Pradesh(1).
 
 PRE_RELIED : Dealing with it this Court has pointed out that what the prosecution has to prove is that the accused person has received "gratification other than legal remuneration"
@@ -3699,7 +3699,7 @@ These observations were made by this Court while dealing with an appeal against 
 PRE_RELIED : In that case the accused, an Income-tax Officer, was alleged to have received a sum of Rs. 1,000 as bribe from an assessee whose case was pending before him.
 
 
-Case id : 1713
+Id : 1713
 PRE_RELIED : The rationale behind the defence under Section 84 IPC was explained by the Supreme Court in State of Rajasthan v. Shera Ram @ Vishnu Datta (2012) 1 SCC 602 in the following words: "To commit a criminal offence, mens rea is generally taken to be an essential element of crime.
 
 PRE_RELIED : It is said furiosi nulla voluntus est.
@@ -3733,7 +3733,7 @@ PRE_RELIED : The report notes that he “requires regular treatment but can be m
 PRE_RELIED : In State of Rajasthan v. Shera Ram @ Vishnu Datta (supra) the Supreme Court affirmed a judgment dated 21st February, 2004 of the Rajasthan High Court acquitting the Respondent therein “primarily on the ground that at the time of incident, he was a person of unsound mind within the meaning of Section 84 IPC.”
 
 
-Case id : 1763
+Id : 1763
 PRE_RELIED : 
 To quote the illustration given by Rowlatt J. in B. IV.
 
@@ -3827,7 +3827,7 @@ PRE_RELIED : Whether a sum is received on capital or revenue account depends or 
 PRE_RELIED : Whether a payment is or is not in the nature of capital expenditure depends or may depend upon the character of the business of the payer and upon other factors related thereto
 
 
-Case id : 1753
+Id : 1753
 PRE_RELIED : In this regard, one may take note of the observations made by the Hon'ble Supreme Court in the case of Jagannivasan .vs. State of Kerala, reported at 1995 Cri.L.J.
  3229, with regard to conduct of the prosecutrix.
 
