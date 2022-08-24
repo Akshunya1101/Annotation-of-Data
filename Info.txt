@@ -12,3 +12,5 @@ pre overruled - key word overruled
 spacy.io for 
 
 create a list of 4 or less letters and make my own split statement
+
+Work on xml files
